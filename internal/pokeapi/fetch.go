@@ -10,7 +10,7 @@ import (
 	"github.com/shahank42/poketext/internal/pokecache"
 )
 
-var cache = pokecache.NewCache(5 * time.Second)
+var cache = pokecache.NewCache(5 * time.Minute)
 
 func getWithCache(url string) ([]byte, bool, error) {
 	data, foundCache := cache.Get(url)
