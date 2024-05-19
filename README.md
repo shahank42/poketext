@@ -7,7 +7,7 @@ Built for the corresponding <a href="https://www.boot.dev/learn/build-pokedex-cl
 # Installation
 ### Step 0: Getting PokeText Installed
 
-Download an appropriate executable file from the <a href="#">Releases</a> page. That's it.
+Download an appropriate executable file from the <a href="https://github.com/shahank42/poketext/releases/tag/v1.0">Releases</a> page. That's it.
 
 ### Step 1: Execute the executable from a CLI
 
@@ -37,7 +37,7 @@ It was more involved than I expected it to be. Not anything too difficult, but y
 
 Here are the things I learned along the way:
 - Golang's package system for organizing code (which I absolutely love)
-- Writing my own cache and cache middleware (yep, from scratch)
+- Writing my own <a href="https://github.com/shahank42/poketext/blob/main/internal/pokecache/cache.go">cache</a> and <a href="https://github.com/shahank42/poketext/blob/main/internal/pokeapi/fetch.go">cache middleware</a> (yep, from scratch)
 - How to think in the Golang way (can't really elaborate much on it, Go code has a certain feel to it which you can sense once you actually write a lot of it)
 - Write code faster (I was practising using NeoVim so lmao)
 
