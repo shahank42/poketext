@@ -7,7 +7,7 @@ Built for the corresponding <a href="https://www.boot.dev/learn/build-pokedex-cl
 # Installation
 ### Step 0: Getting PokeText Installed
 
-Download an appropriate executable file from the <a href="https://github.com/shahank42/poketext/releases/tag/v1.0">Releases</a> page. That's it.
+Download an appropriate executable file from the <a href="https://github.com/shahank42/poketext/releases/latest">Releases</a> page. That's it.
 
 ### Step 1: Execute the executable from a CLI
 
