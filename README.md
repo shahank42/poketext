@@ -5,6 +5,10 @@ A Pokemon catching and (sorta) exploring CLI application.
 Built for the corresponding <a href="https://www.boot.dev/learn/build-pokedex-cli">Boot.dev course</a> in an effort to learn the ins and outs of Golang by me.
 
 # Installation
+### Step -1: Install Go in your system
+
+Download a working version of go based on your system in the corresponding <a href="https://go.dev/dl/">Go Lang Website</a>.
+
 ### Step 0: Getting PokeText Installed
 
 Download an appropriate executable file from the <a href="https://github.com/shahank42/poketext/releases/latest">Releases</a> page. That's it.
